@@ -5,7 +5,7 @@
 <h3 align="left">A 3rd year Information Technology student from the University of San Carlos.</h3>
 
  <h2>About Me💫:</h2>
- <p>-I’m currently working on acquiring the necessary skills that are necessary to succeed.</p>
+ <p>-I’m currently working on acquiring the skills that are necessary to succeed.</p>
  <p>-Busy taking my steps to build the life that I want</p>
 
 <h3 align="left">Connect with me:</h3>
