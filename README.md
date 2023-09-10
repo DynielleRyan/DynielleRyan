@@ -2,11 +2,12 @@
 
 <h1 align="left">Hey, I am Dynielle Ryan Q. Goc-ong</h1>
 
-<h3 align="left">A 3rd year Information Technology student from the University of San Carlos.</h3>
+<h3 align="left">A 3rd year Information Technology student from University of San Carlos.</h3>
 
  <h2>About Me💫:</h2>
  <p>-I’m currently working on acquiring the skills that are necessary to succeed.</p>
- <p>-Busy taking my steps to build the life that I want</p>
+ <p>-Busy taking my steps to build the life that I want.</p>
+ <p>-Want to earn money so that I can one day own a coffee shop.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
