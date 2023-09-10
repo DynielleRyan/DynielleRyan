@@ -6,7 +6,7 @@
 
  <h2>About Me💫:</h2>
  <p>-I’m currently working on acquiring the necessary skills that are necessary to succeed.</p>
- <p>-Busy taking my steps to build the life I want to live.</p>
+ <p>-Busy taking my steps to build the life that I want</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
