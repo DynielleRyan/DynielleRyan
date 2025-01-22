@@ -5,7 +5,7 @@
 <h3 align="left">A 4th year Information Technology student from University of San Carlos.</h3>
 
  <h2>About Me💫:</h2>
- <p>I am an Aspiring Cybersecurity Professional/Network Engineer.
+ <p>-I am an Aspiring Cybersecurity Professional/Network Engineer.
  <p>-I’m currently working on acquiring the skills that are necessary to succeed.</p>
  <p>-Busy taking my steps to build the life that I want.</p>
  <p>-Want to earn money so that I can one day own a coffee shop.</p>
