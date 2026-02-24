@@ -1,8 +1,8 @@
 <img src="https://wallpaperaccess.com/full/8408082.gif" width="1000" height="400">
 
-# Dynielle Ryan Q. Goc-ong
+# Hey, I'm Dynielle Ryan Q. Goc-ong
 
-Full Stack Web Developer from Lapu-Lapu City, Philippines. I love turning ideas into something you can see, interact with, and use.
+I am a full Stack Web Developer I love turning ideas into something you can see, interact with, and use.
 
 ## Connect with me
 
