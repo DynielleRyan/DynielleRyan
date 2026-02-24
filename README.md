@@ -2,7 +2,7 @@
 
 # Hey, I'm Dynielle Ryan Q. Goc-ong
 
-I am a full Stack Web Developer I love turning ideas into something you can see, interact with, and use.
+I am a full Stack Web Developer, I love turning ideas into something you can see, interact with, and use.
 
 ## Connect with me
 
