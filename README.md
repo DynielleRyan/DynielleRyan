@@ -1,7 +1,10 @@
-<img style="width:1000px; height:400px" src="https://wallpaperaccess.com/full/8408082.gif">
-<h1>Dynielle Ryan Q. Goc-ong</h1>
+<img src="https://wallpaperaccess.com/full/8408082.gif" width="1000" height="400">
 
-<h3 align="left">Connect with me:</h3>
+# Dynielle Ryan Q. Goc-ong
 
-**LinkedIn:** [DynielleRyan](https://www.linkedin.com/in/dynielle-ryan-1a4267250/)
-**Portfolio:** [My Portfolio](https://ryandev-78npq.sevalla.app/) 
+Full Stack Web Developer from Lapu-Lapu City, Philippines. I love turning ideas into something you can see, interact with, and use.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dynielle-ryan-1a4267250/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ryandev-78npq.sevalla.app/)
